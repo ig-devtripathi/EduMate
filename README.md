@@ -154,10 +154,29 @@ EduMate is optimized for 1-click deployment on Streamlit Community Cloud:
 
 ## 📸 Screenshots
 
-*(Add screenshots of your UI here)*
-- `[Screenshot 1: Main Dashboard / Glassmorphism UI]`
-- `[Screenshot 2: Ask EduMate interacting with an uploaded PDF]`
-- `[Screenshot 3: Dynamic Quiz Generation]`
+### Home Page
+![EduMate Home Dashboard](images/home_page.png)
+> The central dashboard providing access to all of EduMate's intelligent learning tools—wrapped in a clean, modern Glassmorphism UI.
+
+### Concept Explainer
+![Concept Explainer Tool](images/Concept_Explainer.png)
+> Break down complex, difficult-to-understand topics into simple explanations tailored to your desired learning level (e.g. 'Explain like I'm 5'). 
+
+### Note Summarizer
+![Note Summarizer Tool](images/Note_Summarizer.png)
+> Instantly condense lengthy, dense academic notes into study-ready, strictly formatted bullet points. 
+
+### Quiz Generator
+![Quiz Generator Tool](images/Quiz_Generator.png)
+> Dynamically generate multiple-choice quizzes on any topic to test your knowledge, complete with real-time scoring and explanations.
+
+### Document Analyzer
+![Document Analyzer Tool](images/Document_Analyzer.png)
+> Upload standard academic documents (PDF, DOCX) or images and directly interrogate their contents to pull out key facts, summaries, or data points.
+
+### Ask EduMate (AI Tutor)
+![Ask EduMate Chat Interface](images/Ask_EduMate.png)
+> A dedicated, academically-focused chat interface prioritizing academic integrity. It strictly filters non-academic queries to provide a focused, secure learning companion.
 
 ---
 
