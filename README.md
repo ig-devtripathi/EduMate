@@ -1,6 +1,7 @@
-  <img src="https://via.placeholder.com/150x150.png?text=EduMate+Logo" alt="EduMate Logo" width="150"/>
+<div align="center">
   <h1>📚 EduMate</h1>
   <p><strong>Intelligent AI Learning Platform & Academic Tutor</strong></p>
+  <p><strong>Live Demo: <a href="https://edumate-ai.streamlit.app/">https://edumate-ai.streamlit.app/</a></strong></p>
   <p>
     <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg?style=flat&logo=Streamlit" alt="Streamlit"></a>
     <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/AI_Engine-Gemini_2.5_Flash-4285F4.svg?style=flat&logo=google" alt="Google Gemini"></a>

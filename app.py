@@ -2,7 +2,7 @@ import streamlit as st
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from utils.theme import apply_custom_css
+from utils.theme import apply_custom_css, render_footer
 
 st.set_page_config(
     page_title="EduMate",
@@ -62,5 +62,4 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown("<br><hr style='border: 1px solid #e2e8f0;'><br>", unsafe_allow_html=True)
-st.markdown("<div style='text-align: center; color: #94a3b8; font-weight: 500; font-size: 0.9rem; letter-spacing: 0.05em;'>EDUMATE • AI LEARNING PLATFORM</div>", unsafe_allow_html=True)
+render_footer()
